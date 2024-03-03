@@ -4,7 +4,7 @@ This repository contains basics projects from SoftUni Fundamentals.
 ----------------------------------------------------------
 ## Random Sentence Generator :mag_right:
 Overview:
-This is Random Sentence Generator a simple Python project that generates random sentences based on predefined patterns. It's designed to be a fun and educational tool for exploring sentence structure and language patterns.
+- This is Random Sentence Generator a simple Python project that generates random sentences based on predefined patterns. It's designed to be a fun and educational tool for exploring sentence structure and language patterns.
 
 Features:
 - Generate random sentences with varying structures.
@@ -14,7 +14,7 @@ Features:
 
 ## Guess a Number 🎲
 Overview:
-This is a simple Python project where players try to guess a randomly generated number within a specified range.
+-This is a simple Python project where players try to guess a randomly generated number within a specified range.
 
 Features:
 - Randomly generated secret number for each game.
