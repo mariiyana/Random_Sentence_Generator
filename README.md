@@ -1,2 +1,2 @@
-# Random_Sentence_Generator
-This random sentence generator is just for fun!
+# SoftUni_Projects
+This reposotory contains small and basics projects from SoftUni Fundamentals.
