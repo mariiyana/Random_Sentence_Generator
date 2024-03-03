@@ -1,5 +1,6 @@
 # SoftUni_Projects
 This repository contains basics projects from SoftUni Fundamentals.
+-------------------------------------------------------------------
 
 ## Random Sentence Generator
 - Overview
